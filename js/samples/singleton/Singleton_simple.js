@@ -4,7 +4,7 @@
 
     /**
      * Simple singleton
-     * @type {{log: log}}
+     * @type {{log: Function}}
      */
     var Singleton_simple = {
         /**
